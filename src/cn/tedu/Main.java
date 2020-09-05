@@ -24,6 +24,9 @@ public class Main {
 //111111111
 
     void test(){
-
+        int []a= {1,1,3,4,5,5};
+        for(int b:a ){
+            System.out.println("b = " + b);
+        }
     }
 }
